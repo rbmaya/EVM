@@ -1,0 +1,3 @@
+/home/maya/CLionProjects/EVM/lab_6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/maya/CLionProjects/EVM/lab_6/cmake-build-debug/CMakeFiles/lab_6.dir
+/home/maya/CLionProjects/EVM/lab_6/cmake-build-debug/CMakeFiles/edit_cache.dir

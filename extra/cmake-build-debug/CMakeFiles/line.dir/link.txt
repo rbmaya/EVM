@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/line.dir/main.cpp.o  -o line  -L/home/maya/CLionProjects/EVM/line/SFML_LIBRARY_DIR -Wl,-rpath,/home/maya/CLionProjects/EVM/line/SFML_LIBRARY_DIR:/home/maya/sfml/lib -std=c++11 -pthread /home/maya/sfml/lib/libsfml-graphics.so.2.5.1 /home/maya/sfml/lib/libsfml-window.so.2.5.1 /home/maya/sfml/lib/libsfml-system.so.2.5.1 

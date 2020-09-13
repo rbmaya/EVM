@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maya/CLionProjects/EVM/lab7/main.c
+stdio.h
+-
+time.h
+-
+manual_vect_invert_matrix.h
+/home/maya/CLionProjects/EVM/lab7/manual_vect_invert_matrix.h
+
+/home/maya/CLionProjects/EVM/lab7/manual_vect_invert_matrix.h
+
